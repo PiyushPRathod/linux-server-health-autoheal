@@ -1,0 +1,7 @@
+{
+  "cpu_threshold": 80,
+  "memory_threshold": 80,
+  "disk_threshold": 85,
+  "service_name": "nginx",
+  "log_file": "logs/server_health.log"
+}
